@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>Smartflow Test-Automation config</comment>
+    
+    <!--FormScript  -->
+
+    <entry key="templateName">Formscript Automation from js</entry>
+    <entry key="FormGroupName">An Automation FormGroup</entry>
+    <entry key="sfSettextValue">#sfsetV@luetext!</entry>
+    <entry key="sfSettextareaValue">#sf$etValue#</entry>
+    <entry key="sfSetnumericvalue">03</entry>
+    <entry key="uiInputText">UIV@lue Text</entry>
+    <entry key="uiInputTextArea">Multiline Input in text@re@.
+        Thi$ is l!ne two.</entry>
+    <entry key="uiInputNumeric">55</entry>
+    <entry key="defaultTextValue">Def@ul!Value Te$t</entry>
+    <entry key="defaultTextAreaValue">Def@ultVa!ue Te$tA#ea</entry>
+    <entry key="defaultNumericValue">22</entry>
+    <entry key="uiInputDate">03/22/2022</entry>
+    <entry key="uiInputDateTime">02/22/2022 12:25</entry>
+    <entry key="defaultDateTime">06/12/2020 16:40</entry>
+    <entry key="uiInputTime">10:20</entry>
+    <entry key="defaultTime">12:36</entry>
+    <entry key="sfInputToggle">0</entry>
+    <entry key="sfInputchkbox">0</entry>
+    <entry key="defaulttoggleresponse">1</entry>
+    <entry key="defaultcheckboxvalue">1</entry>
+    <entry key="defaultnumericspinnerValue">1</entry>
+    <entry key="uiInputNumericSpinner">3</entry>
+    <entry key="sfSetnumericSpinnervalue">99</entry>
+    <entry key="defaultslidervalue">9</entry>
+    <entry key="sfSetslidervalue">99</entry>
+
+    <!--Formscript Return Data-->
+    <entry key="Platforms">browser</entry>
+    <entry key="documentMode">mobile</entry>
+    <entry key="Locale">EN</entry>
+
+
+</properties>

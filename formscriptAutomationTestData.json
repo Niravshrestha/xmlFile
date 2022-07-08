@@ -28,8 +28,10 @@
       "Map_DEF_TestValue":"51.951724345391675,4.445420801639558",
       "Barcode_DEF_TestValue":"",
       "Assign_DEF_TestValue":"Qa.automation",
-
-
+      "RadioProperty_DEF_TestValue"="2345";
+      "SelectboxProperty_DEF_TestValue"="2345";
+      "MutiplechoiceProperty_DEF_TestValue"="2345";
+ 
       "Textbox_UI_TestValue":"UIV@lue Text",
       "TextArea_UI_TestValue":"Multiline Input in text@re@.\n Thi$ is l!ne two.",
       "Numeric_UI_TestValue":"55",

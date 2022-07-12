@@ -39,7 +39,7 @@
       "Date_UI_TestValue":"03/22/2022",
       "Time_UI_TestValue":"10:20",
       "DateTime_UI_TestValue":"02/22/2022 12:25",
-      "Radio_UI_TestValue":"Other",
+      "Radio_UI_TestValue":"o",
       "Multiplechoice_UI_TestValue":"Other",
       "Selectbox_UI_TestValue":"Other",
       "Checkbox_UI_Attr1_TestValue":"1",

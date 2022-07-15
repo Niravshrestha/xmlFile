@@ -30,7 +30,7 @@
       "Assign_DEF_TestValue":"Qa.automation",
       "RadioProperty_DEF_TestValue":"1001",
       "SelectboxProperty_DEF_TestValue":"1001",
-      "MutiplechoiceProperty_DEF_TestValue":"1001",
+      "MultiplechoiceProperty_DEF_TestValue":"1001",
  
       "Textbox_UI_TestValue":"UIV@lue Text",
       "TextArea_UI_TestValue":"Multiline Input in text@re@.\n Thi$ is l!ne two.",

@@ -54,7 +54,7 @@
       "Barcode_UI_TestValue":"BarCode test",
       "Assign_UI_TestValue":"",
 
-      "Text_SCRIPT_TestValue":"#sfsetV@luetext!",
+      "Textbox_SCRIPT_TestValue":"#sfsetV@luetext!",
       "Textarea_SCRIPT_TestValue":"#sf$etValue#",
       "Numeric_SCRIPT_TestValue":"03",
       "NumericSpinner_SCRIPT_TestValue":"99",

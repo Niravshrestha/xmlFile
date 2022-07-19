@@ -130,5 +130,6 @@
       "GroupFile_0_SCRIPT_TestValue":"",
       "GroupFile_1_SCRIPT_TestValue":"Doc1",
       "GroupFile_2_SCRIPT_TestValue":"Doc2"
- 
+      "GroupFile_1_SCRIPT_Attr1_TestValue":"Doc Test,Doc1",
+      "GroupFile_2_SCRIPT_Attr1_TestValue":"Doc Test,Doc2"
    }

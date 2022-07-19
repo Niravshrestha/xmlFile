@@ -52,7 +52,7 @@
  
  
       "Textbox_UI_TestValue":"UIV@lue Text",
-      "TextArea_UI_TestValue":"Multiline Input in text@re@.\n Thi$ is l!ne two.",
+      "Textarea_UI_TestValue":"Multiline Input in text@re@.\n Thi$ is l!ne two.",
       "Numeric_UI_TestValue":"55",
       "Numericspinner_UI_TestValue":"3",
       "Date_UI_TestValue":"03/22/2022",
